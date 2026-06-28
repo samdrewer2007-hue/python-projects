@@ -1,4 +1,4 @@
-print('asdf')
+
 
 
 import numpy as np
